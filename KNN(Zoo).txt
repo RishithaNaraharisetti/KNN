@@ -1,0 +1,4 @@
+Implement a KNN model to classify the animals in to categorie
+
+ANSWER:
+please refer zoo.ipynb
